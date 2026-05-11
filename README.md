@@ -1,6 +1,6 @@
-# 🌊 EcoSand Cleaner: Automated Beach Debris Cleaner
+#  EcoSand Cleaner: Automated Beach Debris Cleaner
 
-## 📖 Project Overview
+##  Project Overview
 EcoSand Cleaner is an automated beach debris cleaning system designed to help maintain cleaner shorelines through sustainable and smart technology. The project utilizes solar-powered components, motorized cleaning mechanisms, and an ESP32 microcontroller to automate debris collection on sandy coastal areas.
 
 The system is capable of:
@@ -20,7 +20,7 @@ This project integrates:
 
 ---
 
-# ⚙️ Features
+# Features
 - ☀️ Solar-powered operation
 - 🤖 Automated debris collection
 - 🔄 Forward and backward mobility
@@ -31,7 +31,7 @@ This project integrates:
 
 ---
 
-# 🛠️ Hardware Components
+# Hardware Components
 - ESP32 Microcontroller
 - Solar Panel
 - Solar Charge Controller
@@ -44,17 +44,17 @@ This project integrates:
 
 ---
 
-# 🔌 System Architecture
+# System Architecture
 The EcoSand Cleaner system works by collecting solar energy through the solar panel and storing it in the battery using the charge controller. The ESP32 acts as the main controller, sending PWM and control signals to the BTS7960 motor drivers to operate the motors for movement, steering, and debris collection.
 
 ---
 
-# 👨‍💻 Project Team
+# Project Team
 
 ## 👑 Project Leader
 - **Dado, Kenneth S.**
 
-## 👥 Members
+## Members
 - **Fajutagana, Kimberly A.**
 - **Balimbingan, Shaina F.**
 - **Dacatimban, Kristine Jewel M.**
@@ -62,7 +62,7 @@ The EcoSand Cleaner system works by collecting solar energy through the solar pa
 
 ---
 
-# 🎯 Project Objectives
+# Project Objectives
 - Develop an automated beach cleaning machine
 - Promote environmental sustainability
 - Utilize renewable solar energy
@@ -71,7 +71,7 @@ The EcoSand Cleaner system works by collecting solar energy through the solar pa
 
 ---
 
-# 📚 Technologies Used
+# Technologies Used
 - Embedded Systems
 - IoT and Automation
 - Renewable Energy Technology
@@ -80,7 +80,7 @@ The EcoSand Cleaner system works by collecting solar energy through the solar pa
 
 ---
 
-# 📷 Project Documentation
+# Project Documentation
 Include the following in this repository:
 - Wiring Diagrams
 - Circuit Schematics
@@ -91,18 +91,10 @@ Include the following in this repository:
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 - GPS Navigation
 - Obstacle Detection
 - Remote Monitoring
 - AI-based Debris Detection
 - Mobile App Integration
 
----
-
-# 📄 License
-This project is created for educational and research purposes.
-
----
-
-# 🌱 “Clean Beaches, Cleaner Future.”
